@@ -14,7 +14,7 @@ This project predicts domestic airline ticket prices in Indonesia using three tr
 
 Random Forest performed best for both routes with the lowest error rates.
 
-## 🖥️ Web App
+## 🖥️ Web App R Shiny
 
 The app allows users to input flight parameters and outputs predicted ticket prices using all three models.
 
